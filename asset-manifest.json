@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactLibre/static/css/main.6bc4820c.css",
+    "main.js": "/ReactLibre/static/js/main.4f48d3a9.js",
+    "index.html": "/ReactLibre/index.html",
+    "main.6bc4820c.css.map": "/ReactLibre/static/css/main.6bc4820c.css.map",
+    "main.4f48d3a9.js.map": "/ReactLibre/static/js/main.4f48d3a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc4820c.css",
+    "static/js/main.4f48d3a9.js"
+  ]
+}
